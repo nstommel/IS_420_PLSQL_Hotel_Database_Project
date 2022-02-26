@@ -1,5 +1,12 @@
 # IS_420_PLSQL_Hotel_Database_Project
-This group project implements a hotel management database complete with data, queries, and PL/SQL procedures. A full entity relationship diagram as well as normalized relational model are provided below as images. This database and its corresponding procedures are quite complex and were created as a group in which I served as project leader. Only the procedures implemented in my part of the project are included in the ProjectQueries file. The rest of the procedures implemented by other members of the group as well as pictures of the outputs of test queries can be examined by opening the Team_Project.pdf file found in this repository.
+This group project implements a hotel management database complete with data, queries, and PL/SQL procedures. A full entity relationship diagram as well as normalized relational model are provided below as images. This database and its corresponding procedures are quite complex and were created as a group in which I served as project leader. Only the procedures implemented in my part of the project along with queries to show their functionality are included in the ProjectProceduresPlusQueries.sql file. The rest of the procedures implemented by other members of the group as well as pictures of the outputs of test queries can be examined by opening the Team_Project.pdf file found in this repository. Test files used in the creation of various procedures and database functions are included in this repository. Tables are defined in ProjectTables.sql, and a data set used in testing is included in ProjectData.sql.
+
+ER Diagram:
+![alt text](https://github.com/nstommel/IS_420_PLSQL_Hotel_Database_Project/blob/main/ER_Diagram.jpeg?raw=true)
+
+Normalized Relational Model:
+![alt text](https://github.com/nstommel/IS_420_PLSQL_Hotel_Database_Project/blob/main/Normalized_Relational_Model.jpeg?raw=true)
+
 
 # Description
 Hilton Hotels Inc., is a fictitious hotel company. Hilton is in desperate need of upgrading its hotel management system and has sought your help. Your team has been contacted by Hilton and you have signed a contract to help them organize their office operations, using an Oracle database. You will code a PL/SQL procedures and functions with a number of operations that Hilton will be using to perform the day-to-day business with rooms, reservations etc.
